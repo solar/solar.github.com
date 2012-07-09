@@ -26,47 +26,52 @@
         <developer>
             <id>runarorama</id>
             <name>Runar Bjarnason</name>
-            <url>http://github.com/Runar Bjarnason</url>
+            <url>http://github.com/runarorama</url>
         </developer>
         <developer>
             <id>pchiusano</id>
             <name>Paul Chiusano</name>
-            <url>http://github.com/Paul Chiusano</url>
+            <url>http://github.com/pchiusano</url>
         </developer>
         <developer>
             <id>tonymorris</id>
             <name>Tony Morris</name>
-            <url>http://github.com/Tony Morris</url>
+            <url>http://github.com/tonymorris</url>
         </developer>
         <developer>
             <id>retronym</id>
             <name>Jason Zaugg</name>
-            <url>http://github.com/Jason Zaugg</url>
+            <url>http://github.com/retronym</url>
         </developer>
         <developer>
             <id>ekmett</id>
             <name>Edward Kmett</name>
-            <url>http://github.com/Edward Kmett</url>
+            <url>http://github.com/ekmett</url>
         </developer>
         <developer>
             <id>alexeyr</id>
             <name>Alexey Romanov</name>
-            <url>http://github.com/Alexey Romanov</url>
+            <url>http://github.com/alexeyr</url>
         </developer>
         <developer>
             <id>copumpkin</id>
             <name>Daniel Peebles</name>
-            <url>http://github.com/Daniel Peebles</url>
+            <url>http://github.com/copumpkin</url>
         </developer>
         <developer>
             <id>rwallace</id>
             <name>Richard Wallace</name>
-            <url>http://github.com/Richard Wallace</url>
+            <url>http://github.com/rwallace</url>
         </developer>
         <developer>
             <id>nuttycom</id>
             <name>Kris Nuttycombe</name>
-            <url>http://github.com/Kris Nuttycombe</url>
+            <url>http://github.com/nuttycom</url>
+        </developer>
+        <developer>
+            <id>larsrh</id>
+            <name>Lars Hupel</name>
+            <url>http://github.com/larsrh</url>
         </developer>
     </developers>
     <dependencies>
