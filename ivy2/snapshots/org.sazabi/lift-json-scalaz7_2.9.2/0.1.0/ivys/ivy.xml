@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="org.sazabi" module="lift-json-scalaz7_2.9.2" revision="0.1.0" status="release" publication="20120521125748">
+	<info organisation="org.sazabi" module="lift-json-scalaz7_2.9.2" revision="0.1.0" status="release" publication="20120906113951">
 		<description>
 		lift-json-scalaz7
 		</description>
@@ -28,7 +28,7 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.9.2" conf="compile->default(compile)"/>
 		<dependency org="net.liftweb" name="lift-json_2.9.1" rev="2.4" conf="compile->default(compile)"/>
-		<dependency org="org.scalaz" name="scalaz-core_2.9.2" rev="7.0-SNAPSHOT" conf="compile->default(compile)"/>
+		<dependency org="org.scalaz" name="scalaz-core_2.9.2" rev="7.0.0-M3" conf="compile->default(compile)"/>
 		<exclude org="org.scala-lang" module="scala-library" artifact="*" type="jar" ext="*" matcher="exact"/>
 		<exclude org="org.scala-lang" module="scala-compiler" artifact="*" type="jar" ext="*" matcher="exact"/>
 		<override org="org.scala-lang" module="scala-library" matcher="exact" rev="2.9.2"/>
